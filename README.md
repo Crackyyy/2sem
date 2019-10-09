@@ -7,3 +7,4 @@
 Текстовый редактор: Microsoft visual studio code
 
 Код программы: 2sem.c
+Матрица смежности
