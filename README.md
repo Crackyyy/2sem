@@ -6,4 +6,4 @@
 
 Текстовый редактор: Microsoft visual studio code
 
-Код программы: 
+Код программы: 2sem.c
